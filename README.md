@@ -41,10 +41,6 @@ ou
 yarn install
 ```
 
-### 🔐 Configurando variáveis de ambiente
-
-Crie um arquivo `.env` baseado no `.env.example` com suas credenciais do banco de dados Neon e configurações do Auth.js.
-
 ### 🧱 Rodando as migrações do banco
 
 ```bash
